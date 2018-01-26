@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Laravol-FDP-putaPV2
+=======
+                    Laravol-FDP
+>>>>>>> parent of 860a86f... Merge pull request #2 from Nayrb93/testRichard
                 </div>
 
                 <div class="links">
