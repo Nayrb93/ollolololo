@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravol-FDP-putaPAN
+                    Laravol-FDP-putaPV2
                 </div>
 
                 <div class="links">
