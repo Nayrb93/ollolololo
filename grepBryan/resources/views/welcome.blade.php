@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravol
+                    Laravol-FDP
                 </div>
 
                 <div class="links">
