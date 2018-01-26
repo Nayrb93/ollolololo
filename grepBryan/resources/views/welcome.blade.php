@@ -80,6 +80,10 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravol-FDP-putaPAN
+=======
+                    Laravol-FDP
+>>>>>>> parent of 860a86f... Merge pull request #2 from Nayrb93/testRichard
+>>>>>>> 1c0f5a55e69e93bafa4aa9f72ebe2272fe4beb88
                 </div>
 
                 <div class="links">
